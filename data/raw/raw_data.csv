@@ -1,0 +1,1052 @@
+id,won_time,vendedor,mrr (receita recorrente),nrr(receita não recorrente),pipeline_id,plano,periodicidade,churn_rate
+704867,2022-03-25,Igor Martins,669,242,16,Astrea Starter,Mensal,0.07
+533495,2022-06-21,Rafael Cunha,558,352,16,Astrea Starter,Mensal,0.11
+173441,2022-04-18,Fernanda Dias,330,67,16,Astrea Pro,Mensal,0.25
+904904,2022-03-15,Igor Martins,778,328,16,Astrea Starter,Mensal,0.07
+585660,2023-02-04,Igor Martins,358,114,16,Smart,Mensal,0.07
+918642,2022-03-29,Igor Martins,483,150,16,Astrea Starter,Anual,0.07
+681373,2022-01-26,Igor Martins,407,275,16,Astrea Starter,Mensal,0.07
+746750,2022-03-24,Igor Martins,110,130,16,Astrea Starter,Anual,0.07
+684553,2022-01-14,Rafael Cunha,727,333,16,Astrea Pro,Anual,0.11
+390835,2022-08-11,Igor Martins,229,184,16,Astrea Starter,Mensal,0.07
+756701,2022-05-05,Igor Martins,633,127,16,Astrea Starter,Mensal,0.07
+130181,2022-06-07,Bruna Lopes,642,123,16,Astrea Pro,Mensal,0.07
+264525,2022-01-19,Igor Martins,778,377,16,Astrea Starter,Mensal,0.07
+249927,2022-05-04,Larissa Melo,685,484,16,Astrea Starter,Mensal,0.14
+376659,2022-03-31,Bruna Lopes,722,406,16,Astrea Pro,Mensal,0.07
+19839,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+848639,2022-06-21,Rafael Cunha,320,197,16,Astrea Starter,Mensal,0.11
+145621,2022-04-06,Igor Martins,367,216,16,Astrea Starter,Mensal,0.07
+348492,2022-08-08,Igor Martins,405,477,16,Astrea Starter,Mensal,0.07
+224992,2022-06-14,Igor Martins,181,285,16,Astrea Pro,Anual,0.07
+914780,2022-02-25,Igor Martins,107,233,16,Astrea Pro,Mensal,0.07
+322338,2022-07-14,Igor Martins,158,207,16,Astrea Starter,Anual,0.07
+263288,2022-08-12,Igor Martins,561,376,16,Astrea Starter,Mensal,0.07
+622026,2022-07-21,Igor Martins,736,222,16,Astrea Starter,Mensal,0.07
+470921,2022-05-20,Igor Martins,306,272,16,Astrea Starter,Mensal,0.07
+433214,2022-01-18,Igor Martins,316,310,16,Astrea Starter,Mensal,0.07
+424087,2022-03-16,Igor Martins,339,315,16,Astrea Starter,Anual,0.07
+154666,2022-01-18,Igor Martins,606,322,16,Astrea Starter,Mensal,0.07
+842386,2022-03-04,Igor Martins,502,207,16,Astrea Starter,Mensal,0.07
+791928,2022-01-31,Igor Martins,122,382,16,Astrea Starter,Mensal,0.07
+996200,2022-01-18,Igor Martins,380,458,16,Astrea Starter,Mensal,0.07
+254579,2022-04-05,Igor Martins,355,179,16,Astrea Starter,Anual,0.07
+192765,2022-04-07,Igor Martins,625,426,16,Astrea Starter,Mensal,0.07
+700905,2022-07-21,Igor Martins,245,483,16,Astrea Starter,Mensal,0.07
+411117,2022-01-14,Igor Martins,319,340,16,Astrea Pro,Mensal,0.07
+745430,2022-07-04,Igor Martins,203,65,16,Astrea Starter,Mensal,0.07
+802676,2022-05-07,Igor Martins,196,446,16,Astrea Starter,Mensal,0.07
+333664,2022-03-14,Igor Martins,695,353,16,Astrea Pro,Anual,0.07
+288954,2022-08-16,Igor Martins,344,478,16,Astrea Pro,Mensal,0.07
+169361,2022-02-22,Igor Martins,393,391,16,Astrea Starter,Mensal,0.07
+627241,2022-07-12,Rafael Cunha,762,310,16,Astrea Starter,Mensal,0.11
+375641,2022-07-08,Igor Martins,248,362,16,Astrea Starter,Mensal,0.07
+626315,2022-06-22,Igor Martins,690,58,16,Astrea Starter,Mensal,0.07
+837549,2022-05-31,Igor Martins,245,275,16,Astrea Pro,Anual,0.07
+190171,2022-01-12,Igor Martins,408,488,16,Astrea Starter,Mensal,0.07
+685591,2022-01-31,Igor Martins,562,377,16,Astrea Starter,Mensal,0.07
+117259,2022-01-11,Fernanda Dias,615,106,16,Astrea Starter,Mensal,0.25
+425263,2022-03-30,Igor Martins,132,377,16,Astrea Starter,Mensal,0.07
+19830,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+19821,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+19812,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+852629,2022-08-29,Rafael Cunha,780,271,16,Astrea Starter,Mensal,0.11
+288241,2022-06-30,Igor Martins,404,115,16,Astrea Starter,Mensal,0.07
+368371,2022-07-29,Igor Martins,287,351,16,Astrea Starter,Mensal,0.07
+727192,2022-03-23,Bruna Lopes,493,116,16,Astrea Starter,Mensal,0.07
+964177,2022-05-23,Igor Martins,293,264,16,Astrea Pro,Mensal,0.07
+829579,2022-01-17,Rafael Cunha,490,216,16,Astrea Starter,Anual,0.11
+909432,2022-01-27,Igor Martins,491,81,16,Astrea Starter,Mensal,0.07
+539960,2022-09-20,Igor Martins,199,426,16,Up,Mensal,0.07
+481598,2022-08-12,Igor Martins,269,420,16,Astrea Starter,Mensal,0.07
+110129,2022-07-22,Igor Martins,581,481,16,Astrea Starter,Mensal,0.07
+104658,2022-03-31,Igor Martins,632,458,16,Astrea Starter,Anual,0.07
+858852,2022-04-12,Bruna Lopes,132,297,36,Astrea Starter,Mensal,0.07
+261300,2022-05-31,Bruna Lopes,583,146,16,Astrea Starter,Mensal,0.07
+750328,2022-01-31,Igor Martins,795,319,16,Astrea Starter,Mensal,0.07
+353805,2022-07-29,Rafael Cunha,495,190,16,Astrea Starter,Mensal,0.11
+592673,2022-05-31,Igor Martins,168,133,16,Astrea Starter,Anual,0.07
+844644,2022-08-11,Igor Martins,635,125,16,Astrea Pro,Mensal,0.07
+472688,2022-10-26,Rafael Cunha,661,228,16,Smart,Mensal,0.11
+367961,2022-05-10,Fernanda Dias,697,292,16,Astrea Starter,Mensal,0.25
+247817,2022-05-31,Igor Martins,323,88,16,Astrea Starter,Mensal,0.07
+246592,2022-07-22,Igor Martins,756,421,16,Astrea Starter,Anual,0.07
+895012,2022-03-21,Igor Martins,219,103,16,Astrea Starter,Mensal,0.07
+987479,2022-07-14,Fernanda Dias,150,345,16,Astrea Pro,Mensal,0.25
+164004,2022-06-03,Igor Martins,460,356,16,Astrea Starter,Mensal,0.07
+816049,2022-03-23,Igor Martins,480,321,16,Astrea Starter,Mensal,0.07
+258551,2022-08-08,Igor Martins,538,217,16,Astrea Starter,Mensal,0.07
+863795,2022-02-17,Igor Martins,445,148,16,Astrea Starter,Anual,0.07
+19803,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+157321,2022-03-30,Igor Martins,726,423,16,Astrea Starter,Anual,0.07
+272218,2022-01-19,Igor Martins,478,167,16,Astrea Starter,Mensal,0.07
+989683,2022-07-28,Fernanda Dias,631,352,16,Astrea Starter,Anual,0.25
+498199,2022-03-16,Igor Martins,551,290,16,Astrea Starter,Mensal,0.07
+861333,2022-02-01,Igor Martins,137,258,16,Astrea Pro,Mensal,0.07
+271561,2022-03-21,Igor Martins,266,120,16,Astrea Starter,Mensal,0.07
+799630,2022-02-21,Igor Martins,369,104,16,Astrea Pro,Mensal,0.07
+164629,2022-08-17,Igor Martins,555,80,16,Astrea Starter,Mensal,0.07
+613110,2022-08-12,Fernanda Dias,472,222,16,Astrea Starter,Mensal,0.25
+286658,2022-02-02,Igor Martins,707,109,16,Astrea Starter,Mensal,0.07
+574068,2022-01-10,Rafael Cunha,483,85,16,Astrea Starter,Anual,0.11
+631554,2022-01-17,Rafael Cunha,453,468,16,Astrea Starter,Mensal,0.11
+755835,2022-06-28,Igor Martins,552,117,16,Astrea Starter,Mensal,0.07
+256304,2022-01-24,Igor Martins,530,377,16,Astrea Starter,Mensal,0.07
+187253,2022-02-08,Igor Martins,132,150,16,Astrea Starter,Anual,0.07
+456523,2022-05-04,Bruna Lopes,172,286,16,Astrea Starter,Mensal,0.07
+326077,2022-07-28,Igor Martins,598,465,16,Astrea Pro,Anual,0.07
+486454,2023-03-01,Rafael Cunha,488,225,16,Up,Mensal,0.11
+917899,2022-05-10,Igor Martins,478,441,16,Astrea Starter,Mensal,0.07
+340054,2023-02-03,Igor Martins,198,486,16,Smart,Mensal,0.07
+550229,2022-04-18,Igor Martins,346,51,16,Astrea Starter,Mensal,0.07
+438289,2022-06-13,Rafael Cunha,123,79,16,Astrea Pro,Mensal,0.11
+770696,2022-11-07,Fernanda Dias,317,167,16,Smart,Mensal,0.25
+924924,2022-06-08,Igor Martins,530,257,16,Astrea Pro,Mensal,0.07
+930989,2022-03-29,Rafael Cunha,399,459,16,Astrea Starter,Mensal,0.11
+165708,2022-01-12,Igor Martins,244,196,16,Astrea Starter,Semestral,0.07
+782837,2022-03-09,Igor Martins,577,95,16,Astrea Starter,Mensal,0.07
+19794,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+197743,2022-01-31,Igor Martins,224,483,16,Astrea Starter,Mensal,0.07
+642893,2022-01-21,Rafael Cunha,353,98,16,Astrea Starter,Mensal,0.11
+360584,2022-04-19,Fernanda Dias,216,260,16,Astrea Pro,Anual,0.25
+148273,2022-09-30,Igor Martins,429,393,16,Company,Mensal,0.07
+855657,2022-08-10,Bruna Lopes,673,141,36,Astrea Starter,Mensal,0.07
+491689,2022-09-30,Fernanda Dias,469,392,16,Smart,Mensal,0.25
+504811,2022-02-15,Igor Martins,746,139,16,Astrea Starter,Mensal,0.07
+615821,2022-05-31,Igor Martins,577,222,16,Astrea Starter,Anual,0.07
+777963,2022-06-29,Igor Martins,556,151,16,Astrea Pro,Mensal,0.07
+395492,2022-07-18,Fernanda Dias,712,293,16,Astrea Starter,Mensal,0.25
+662729,2022-06-29,Igor Martins,306,396,16,Astrea Pro,Anual,0.07
+822948,2023-02-27,Larissa Melo,338,181,16,Smart,Mensal,0.14
+19785,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+263462,2022-03-28,Rafael Cunha,555,62,16,Astrea Pro,Anual,0.11
+126523,2022-09-12,Igor Martins,616,90,16,Up,Mensal,0.07
+706480,2022-05-30,Igor Martins,659,345,16,Astrea Starter,Mensal,0.07
+939488,2023-01-04,Fernanda Dias,194,153,16,Up,Mensal,0.25
+351055,2022-02-24,Fernanda Dias,503,191,16,Astrea Pro,Anual,0.25
+456213,2022-07-29,Igor Martins,178,264,16,Astrea Starter,Mensal,0.07
+169558,2022-07-22,Bruna Lopes,756,66,36,Astrea Starter,Mensal,0.07
+735910,2022-02-22,Rafael Cunha,179,236,16,Astrea Starter,Mensal,0.11
+719505,2022-01-14,Igor Martins,329,484,16,Astrea Starter,Mensal,0.07
+433495,2022-06-30,Fernanda Dias,630,419,16,Astrea Starter,Anual,0.25
+102278,2022-02-09,Bruna Lopes,152,450,16,Astrea Pro,Mensal,0.07
+813749,2022-01-13,Igor Martins,604,463,16,Astrea Starter,Mensal,0.07
+19776,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+996566,2022-02-16,Igor Martins,458,90,16,Astrea Starter,Mensal,0.07
+621454,2022-05-26,Igor Martins,744,351,16,Astrea Pro,Mensal,0.07
+909621,2022-01-24,Igor Martins,481,315,16,Astrea Starter,Mensal,0.07
+822337,2022-08-10,Rafael Cunha,160,56,16,Astrea Pro,Anual,0.11
+338462,2022-06-30,Igor Martins,205,427,16,Astrea Pro,Mensal,0.07
+209511,2022-01-27,Igor Martins,282,103,16,Astrea Starter,Mensal,0.07
+773079,2022-12-07,Rafael Cunha,193,462,16,Company,Anual,0.11
+478466,2022-01-31,Igor Martins,799,142,16,Astrea Starter,Anual,0.07
+430078,2022-01-05,Fernanda Dias,753,170,16,Astrea Starter,Anual,0.25
+716216,2022-02-18,Bruna Lopes,393,123,16,Astrea Pro,Mensal,0.07
+445296,2022-01-04,Igor Martins,514,437,16,Astrea Starter,Anual,0.07
+339641,2022-08-16,Igor Martins,322,91,16,Astrea Starter,Mensal,0.07
+593211,2022-03-08,Bruna Lopes,208,299,16,Astrea Pro,Anual,0.07
+851998,2022-05-16,Igor Martins,694,93,16,Astrea Starter,Semestral,0.07
+468598,2022-03-22,Bruna Lopes,538,184,36,Astrea Starter,Mensal,0.07
+321584,2022-08-12,Igor Martins,397,479,16,Astrea Pro,Anual,0.07
+471268,2022-11-11,Rafael Cunha,152,431,16,Smart,Mensal,0.11
+991358,2022-05-25,Igor Martins,283,203,16,Astrea Starter,Semestral,0.07
+823052,2022-03-10,Igor Martins,257,159,16,Astrea Starter,Mensal,0.07
+979921,2022-02-24,Fernanda Dias,452,438,16,Astrea Starter,Mensal,0.25
+948095,2022-08-09,Igor Martins,527,82,16,Astrea Pro,Anual,0.07
+147293,2022-03-09,Igor Martins,382,469,16,Astrea Starter,Mensal,0.07
+108788,2022-07-29,Igor Martins,605,109,16,Astrea Starter,Mensal,0.07
+516698,2022-05-09,Fernanda Dias,664,406,16,Astrea Starter,Mensal,0.25
+597208,2022-06-07,Igor Martins,205,342,16,Astrea Starter,Mensal,0.07
+348537,2022-05-27,Rafael Cunha,298,498,16,Astrea Starter,Mensal,0.11
+180247,2022-05-12,Bruna Lopes,247,53,36,Astrea Starter,Mensal,0.07
+341308,2022-04-27,Igor Martins,270,275,16,Astrea Starter,Mensal,0.07
+760314,2022-05-25,Igor Martins,133,104,16,Astrea Starter,Anual,0.07
+153792,2022-11-16,Fernanda Dias,393,418,16,Up,Mensal,0.25
+785167,2022-05-18,Bruna Lopes,277,151,36,Astrea Starter,Mensal,0.07
+322552,2022-02-15,Igor Martins,535,368,16,Astrea Starter,Mensal,0.07
+273017,2022-04-20,Igor Martins,152,214,16,Astrea Starter,Anual,0.07
+825757,2022-06-30,Rafael Cunha,223,241,16,Astrea Starter,Mensal,0.11
+154421,2022-02-25,Bruna Lopes,415,475,16,Astrea Starter,Mensal,0.07
+143781,2023-05-08,Rafael Cunha,294,180,16,Up,Mensal,0.11
+710026,2022-07-27,Igor Martins,524,88,16,Astrea Starter,Mensal,0.07
+209063,2022-05-12,Rafael Cunha,236,387,16,Astrea Starter,Mensal,0.11
+183632,2022-03-14,Igor Martins,442,53,16,Astrea Starter,Mensal,0.07
+19767,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+638091,2022-05-20,Igor Martins,737,272,16,Astrea Starter,Mensal,0.07
+246426,2022-05-16,Rafael Cunha,283,245,16,Astrea Starter,Mensal,0.11
+848630,2022-05-31,Fernanda Dias,111,132,16,Astrea Starter,Mensal,0.25
+209319,2022-03-21,Bruna Lopes,252,87,16,Astrea Pro,Mensal,0.07
+19758,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+312206,2022-08-15,Igor Martins,448,281,16,Astrea Pro,Mensal,0.07
+206115,2022-02-14,Igor Martins,473,160,16,Astrea Starter,Mensal,0.07
+586235,2022-05-24,Igor Martins,380,302,16,Astrea Pro,Mensal,0.07
+836160,2022-08-30,Igor Martins,522,375,16,Up,Mensal,0.07
+207910,2022-05-30,Bruna Lopes,176,274,16,Astrea Starter,Mensal,0.07
+19749,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+807024,2022-08-08,Igor Martins,382,172,16,Astrea Starter,Mensal,0.07
+854015,2022-02-21,Igor Martins,710,472,16,Astrea Pro,Anual,0.07
+152854,2022-01-21,Igor Martins,397,128,16,Astrea Pro,Anual,0.07
+250968,2022-07-29,Igor Martins,584,195,16,Astrea Starter,Mensal,0.07
+866490,2022-02-18,Igor Martins,453,329,16,Astrea Starter,Anual,0.07
+194812,2022-01-24,Igor Martins,261,458,16,Astrea Pro,Mensal,0.07
+977714,2022-03-17,Rafael Cunha,292,304,16,Astrea Starter,Mensal,0.11
+795443,2022-03-15,Igor Martins,455,431,16,Astrea Starter,Mensal,0.07
+957221,2022-03-25,Igor Martins,355,292,16,Astrea Starter,Anual,0.07
+19740,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+996663,2022-01-21,Fernanda Dias,627,439,16,Astrea Pro,Anual,0.25
+938674,2022-02-24,Igor Martins,702,94,16,Astrea Starter,Mensal,0.07
+800437,2022-02-25,Igor Martins,728,335,16,Astrea Starter,Anual,0.07
+661866,2022-02-07,Igor Martins,276,178,16,Astrea Starter,Mensal,0.07
+124975,2022-03-22,Igor Martins,398,471,16,Astrea Pro,Mensal,0.07
+387636,2023-01-06,Igor Martins,616,266,16,Smart,Anual,0.07
+341587,2022-03-09,Igor Martins,124,481,16,Astrea Starter,Mensal,0.07
+19731,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+521366,2022-08-15,Igor Martins,382,384,16,Astrea Starter,Mensal,0.07
+670318,2022-03-31,Fernanda Dias,414,304,16,Astrea Starter,Mensal,0.25
+401935,2022-03-14,Igor Martins,435,279,16,Astrea Starter,Mensal,0.07
+649478,2022-06-14,Rafael Cunha,725,111,16,Astrea Starter,Mensal,0.11
+418303,2022-05-12,Igor Martins,667,246,16,Astrea Starter,Mensal,0.07
+967336,2022-03-30,Igor Martins,263,79,16,Astrea Pro,Mensal,0.07
+405240,2022-06-02,Igor Martins,489,496,16,Astrea Starter,Mensal,0.07
+173075,2022-01-30,Bruna Lopes,555,98,36,Astrea Starter,Mensal,0.07
+572396,2022-05-04,Fernanda Dias,551,427,16,Astrea Starter,Mensal,0.25
+19722,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+360725,2022-04-24,Igor Martins,429,175,16,Astrea Pro,Anual,0.07
+467720,2022-05-04,Igor Martins,183,250,16,Astrea Pro,Mensal,0.07
+224556,2022-05-31,Igor Martins,459,458,16,Astrea Starter,Mensal,0.07
+253060,2022-01-05,Igor Martins,422,55,16,Astrea Starter,Mensal,0.07
+293294,2023-07-14,Rafael Cunha,502,362,16,Up,Mensal,0.11
+147775,2022-06-23,Igor Martins,107,189,16,Astrea Starter,Mensal,0.07
+146559,2022-01-10,Igor Martins,465,455,16,Astrea Starter,Mensal,0.07
+982443,2022-08-23,Igor Martins,214,401,16,Astrea Pro,Mensal,0.07
+786902,2022-03-31,Igor Martins,278,312,16,Astrea Starter,Mensal,0.07
+602395,2022-06-09,Igor Martins,648,260,16,Astrea Pro,Mensal,0.07
+590809,2022-08-26,Igor Martins,659,205,16,Smart,Mensal,0.07
+979053,2022-04-19,Bruna Lopes,245,434,36,Astrea Starter,Mensal,0.07
+810223,2022-03-03,Rafael Cunha,406,59,16,Astrea Starter,Mensal,0.11
+841500,2022-08-31,Igor Martins,560,299,16,Smart,Mensal,0.07
+896831,2022-06-09,Igor Martins,777,441,16,Astrea Starter,Mensal,0.07
+379974,2022-04-01,Fernanda Dias,197,67,16,Astrea Pro,Mensal,0.25
+523874,2022-03-30,Bruna Lopes,342,481,16,Astrea Starter,Mensal,0.07
+572146,2022-03-11,Fernanda Dias,531,145,16,Astrea Starter,Mensal,0.25
+882154,2022-02-21,Igor Martins,566,153,16,Astrea Pro,Anual,0.07
+827321,2022-02-22,Igor Martins,106,78,16,Astrea Starter,Mensal,0.07
+19713,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+498204,2022-03-14,Bruna Lopes,763,108,16,Astrea Starter,Mensal,0.07
+513288,2022-01-31,Fernanda Dias,351,471,16,Astrea Starter,Mensal,0.25
+305216,2022-06-14,Bruna Lopes,712,478,16,Astrea Starter,Mensal,0.07
+313731,2022-02-22,Igor Martins,757,135,16,Astrea Pro,Mensal,0.07
+477671,2022-04-28,Igor Martins,431,136,16,Astrea Pro,Mensal,0.07
+709346,2022-03-28,Fernanda Dias,646,293,16,Astrea Pro,Mensal,0.25
+153807,2023-07-05,Rafael Cunha,719,305,16,Up,Mensal,0.11
+675256,2022-07-21,Igor Martins,690,375,16,Astrea Pro,Mensal,0.07
+670573,2022-08-12,Fernanda Dias,128,302,16,Astrea Starter,Mensal,0.25
+444693,2022-06-28,Fernanda Dias,607,324,16,Astrea Starter,Anual,0.25
+314419,2022-02-17,Igor Martins,778,85,16,Astrea Starter,Anual,0.07
+296328,2022-03-31,Igor Martins,305,295,16,Astrea Starter,Mensal,0.07
+754172,2022-07-22,Igor Martins,564,131,16,Astrea Starter,Mensal,0.07
+544660,2022-02-22,Rafael Cunha,651,240,16,Astrea Starter,Mensal,0.11
+737278,2022-02-23,Igor Martins,447,455,16,Astrea Starter,Mensal,0.07
+988419,2022-07-29,Igor Martins,337,300,16,Astrea Starter,Mensal,0.07
+762848,2022-02-14,Rafael Cunha,445,335,16,Astrea Starter,Mensal,0.11
+774148,2022-12-12,Larissa Melo,391,199,16,Up,Mensal,0.14
+724538,2022-02-11,Fernanda Dias,221,298,16,Astrea Starter,Anual,0.25
+363132,2022-06-01,Igor Martins,145,85,16,Astrea Starter,Mensal,0.07
+497604,2022-04-11,Igor Martins,537,286,16,Astrea Pro,Mensal,0.07
+281293,2022-02-18,Igor Martins,571,69,16,Astrea Starter,Mensal,0.07
+761537,2022-07-11,Rafael Cunha,309,480,16,Astrea Starter,Mensal,0.11
+177022,2022-01-17,Igor Martins,342,143,16,Astrea Starter,Mensal,0.07
+902971,2022-02-18,Bruna Lopes,475,272,36,Astrea Starter,Mensal,0.07
+202948,2022-07-29,Igor Martins,156,489,16,Astrea Pro,Mensal,0.07
+753864,2022-04-30,Igor Martins,774,449,16,Astrea Starter,Mensal,0.07
+800191,2022-05-26,Igor Martins,279,364,16,Astrea Starter,Mensal,0.07
+175024,2022-05-23,Igor Martins,439,375,16,Astrea Starter,Mensal,0.07
+628730,2022-01-13,Igor Martins,579,434,16,Astrea Starter,Mensal,0.07
+100157,2022-03-17,Igor Martins,755,382,16,Astrea Pro,Mensal,0.07
+203763,2022-03-30,Igor Martins,614,408,16,Astrea Starter,Mensal,0.07
+944869,2022-02-24,Igor Martins,552,101,16,Astrea Starter,Anual,0.07
+171655,2022-06-21,Igor Martins,767,250,16,Astrea Pro,Mensal,0.07
+954498,2023-05-15,Igor Martins,657,430,16,Up,Mensal,0.07
+745066,2022-03-14,Rafael Cunha,721,166,16,Astrea Starter,Mensal,0.11
+398204,2022-05-30,Igor Martins,488,416,16,Astrea Starter,Mensal,0.07
+651472,2022-05-04,Bruna Lopes,103,255,16,Astrea Starter,Mensal,0.07
+411627,2022-01-10,Igor Martins,377,379,16,Astrea Starter,Mensal,0.07
+479275,2022-05-31,Igor Martins,729,221,16,Astrea Starter,Mensal,0.07
+815452,2022-08-31,Igor Martins,270,383,16,Company,Mensal,0.07
+465455,2022-02-08,Igor Martins,283,273,16,Astrea Starter,Anual,0.07
+146737,2022-06-14,Igor Martins,643,348,16,Astrea Starter,Mensal,0.07
+761434,2022-06-29,Igor Martins,568,283,16,Astrea Starter,Mensal,0.07
+718492,2022-03-11,Igor Martins,516,489,16,Astrea Starter,Mensal,0.07
+631652,2022-02-16,Igor Martins,792,293,16,Astrea Starter,Mensal,0.07
+719351,2022-09-23,Fernanda Dias,276,235,16,Smart,Mensal,0.25
+523627,2022-05-24,Bruna Lopes,372,231,16,Astrea Starter,Mensal,0.07
+134467,2022-03-29,Igor Martins,751,254,16,Astrea Starter,Mensal,0.07
+422895,2022-05-13,Igor Martins,639,441,16,Astrea Starter,Mensal,0.07
+956219,2022-08-31,Igor Martins,136,440,16,Smart,Mensal,0.07
+264427,2022-03-02,Rafael Cunha,277,121,16,Astrea Starter,Mensal,0.11
+672353,2022-05-31,Igor Martins,211,411,16,Astrea Pro,Mensal,0.07
+571713,2022-03-30,Fernanda Dias,171,428,16,Astrea Starter,Mensal,0.25
+651493,2022-01-04,Igor Martins,252,493,16,Astrea Starter,Mensal,0.07
+652905,2022-01-21,Igor Martins,682,412,16,Astrea Starter,Mensal,0.07
+902686,2023-05-16,Rafael Cunha,771,55,16,Up,Mensal,0.11
+820785,2022-05-26,Bruna Lopes,715,473,36,Astrea Starter,Mensal,0.07
+480684,2022-02-17,Bruna Lopes,395,266,16,Astrea Starter,Mensal,0.07
+711865,2022-02-07,Igor Martins,757,336,16,Astrea Starter,Mensal,0.07
+357184,2022-07-06,Rafael Cunha,200,417,16,Astrea Starter,Mensal,0.11
+297865,2022-05-25,Larissa Melo,731,137,16,Astrea Pro,Mensal,0.14
+254487,2022-03-10,Igor Martins,638,88,16,Astrea Starter,Mensal,0.07
+901298,2022-01-13,Rafael Cunha,565,465,16,Astrea Pro,Mensal,0.11
+888377,2022-01-13,Rafael Cunha,661,145,16,Astrea Starter,Mensal,0.11
+300306,2022-08-15,Igor Martins,343,99,16,Astrea Starter,Mensal,0.07
+243814,2022-02-02,Igor Martins,357,483,16,Astrea Pro,Mensal,0.07
+947751,2022-04-29,Bruna Lopes,763,273,36,Astrea Starter,Mensal,0.07
+482128,2022-04-08,Igor Martins,120,165,16,Astrea Starter,Mensal,0.07
+122130,2022-05-10,Igor Martins,156,358,16,Astrea Starter,Mensal,0.07
+690132,2022-05-10,Igor Martins,460,110,16,Astrea Pro,Mensal,0.07
+916321,2022-04-28,Bruna Lopes,454,179,16,Astrea Starter,Anual,0.07
+492472,2022-08-03,Igor Martins,242,291,16,Astrea Pro,Mensal,0.07
+595438,2022-03-07,Igor Martins,415,364,16,Astrea Starter,Mensal,0.07
+642353,2022-07-14,Fernanda Dias,238,66,16,Astrea Starter,Mensal,0.25
+389454,2022-04-06,Igor Martins,268,473,16,Astrea Starter,Mensal,0.07
+204046,2022-01-25,Igor Martins,554,422,16,Astrea Pro,Mensal,0.07
+554684,2022-01-20,Igor Martins,439,296,16,Astrea Starter,Mensal,0.07
+570075,2022-07-29,Igor Martins,357,415,16,Astrea Pro,Mensal,0.07
+724487,2022-07-11,Igor Martins,783,397,16,Astrea Starter,Mensal,0.07
+924400,2022-03-24,Igor Martins,501,490,16,Astrea Pro,Mensal,0.07
+456241,2022-08-16,Igor Martins,430,121,16,Astrea Pro,Mensal,0.07
+409116,2022-03-24,Igor Martins,782,441,16,Astrea Starter,Mensal,0.07
+292547,2022-02-09,Igor Martins,749,412,16,Astrea Starter,Mensal,0.07
+116516,2022-05-04,Fernanda Dias,677,400,16,Astrea Starter,Mensal,0.25
+901646,2022-03-29,Igor Martins,197,431,16,Astrea Starter,Mensal,0.07
+157051,2022-10-31,Rafael Cunha,368,387,16,Up,Mensal,0.11
+836165,2022-04-26,Igor Martins,583,71,16,Astrea Starter,Mensal,0.07
+315565,2022-09-21,Rafael Cunha,187,467,16,Company,Mensal,0.11
+509006,2022-07-11,Igor Martins,218,414,16,Astrea Starter,Mensal,0.07
+988921,2022-03-14,Igor Martins,161,289,16,Astrea Pro,Anual,0.07
+100681,2022-05-26,Igor Martins,784,86,16,Astrea Starter,Mensal,0.07
+164158,2022-02-18,Igor Martins,710,301,16,Astrea Pro,Anual,0.07
+953479,2022-03-22,Igor Martins,577,61,16,Astrea Starter,Mensal,0.07
+133173,2022-06-29,Rafael Cunha,587,329,16,Astrea Starter,Mensal,0.11
+963198,2022-06-13,Igor Martins,799,222,16,Astrea Pro,Mensal,0.07
+726170,2022-11-07,Bruna Lopes,249,430,36,Up,Mensal,0.07
+19704,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+699601,2022-01-31,Rafael Cunha,538,300,16,Astrea Starter,Anual,0.11
+740858,2022-06-14,Igor Martins,302,440,16,Astrea Starter,Mensal,0.07
+639376,2022-01-13,Igor Martins,100,319,16,Astrea Pro,Mensal,0.07
+376886,2022-05-05,Bruna Lopes,302,327,36,Astrea Starter,Mensal,0.07
+466905,2022-05-10,Fernanda Dias,180,386,16,Astrea Pro,Mensal,0.25
+763682,2022-10-26,Fernanda Dias,121,158,16,Smart,Mensal,0.25
+493214,2022-02-17,Rafael Cunha,153,333,16,Astrea Starter,Mensal,0.11
+412370,2022-04-04,Bruna Lopes,584,175,16,Astrea Starter,Mensal,0.07
+740653,2022-02-03,Fernanda Dias,574,195,16,Astrea Starter,Mensal,0.25
+873524,2022-06-28,Igor Martins,303,382,16,Astrea Starter,Mensal,0.07
+663247,2022-05-06,Igor Martins,101,229,16,Astrea Starter,Mensal,0.07
+404808,2022-04-26,Fernanda Dias,627,159,16,Astrea Pro,Anual,0.25
+292095,2022-07-13,Bruna Lopes,523,491,36,Astrea Starter,Mensal,0.07
+381973,2022-09-13,Rafael Cunha,523,394,16,Company,Mensal,0.11
+299422,2022-05-30,Igor Martins,283,66,16,Astrea Starter,Mensal,0.07
+861823,2022-07-29,Rafael Cunha,339,307,16,Astrea Pro,Mensal,0.11
+444256,2022-02-01,Igor Martins,299,68,16,Astrea Starter,Mensal,0.07
+19695,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+259984,2022-04-01,Igor Martins,534,144,16,Astrea Starter,Mensal,0.07
+157941,2022-10-25,Igor Martins,402,399,16,Company,Mensal,0.07
+438634,2022-04-25,Fernanda Dias,386,250,16,Astrea Starter,Mensal,0.25
+940681,2022-08-29,Igor Martins,708,213,16,Smart,Mensal,0.07
+269284,2022-04-18,Igor Martins,533,472,16,Astrea Starter,Mensal,0.07
+385950,2022-06-14,Igor Martins,710,466,16,Astrea Starter,Anual,0.07
+619599,2022-08-11,Bruna Lopes,127,207,36,Astrea Starter,Mensal,0.07
+200432,2022-01-25,Igor Martins,141,235,16,Astrea Starter,Mensal,0.07
+448750,2022-03-10,Igor Martins,260,314,16,Astrea Starter,Mensal,0.07
+146488,2022-05-30,Igor Martins,205,125,16,Astrea Starter,Mensal,0.07
+812195,2022-02-11,Igor Martins,743,351,16,Astrea Pro,Mensal,0.07
+131865,2022-03-04,Igor Martins,428,299,16,Astrea Pro,Anual,0.07
+284073,2022-05-25,Igor Martins,253,150,16,Astrea Starter,Mensal,0.07
+746733,2022-07-11,Igor Martins,256,361,16,Astrea Starter,Mensal,0.07
+746559,2022-08-05,Igor Martins,719,76,16,Astrea Starter,Mensal,0.07
+306554,2022-06-21,Igor Martins,669,348,16,Astrea Pro,Mensal,0.07
+19686,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+916263,2022-06-30,Igor Martins,198,152,16,Astrea Starter,Mensal,0.07
+19677,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+822193,2022-07-07,Bruna Lopes,600,397,36,Astrea Starter,Mensal,0.07
+705291,2022-04-19,Fernanda Dias,106,286,16,Astrea Starter,Mensal,0.25
+400169,2022-05-18,Igor Martins,388,138,16,Astrea Pro,Mensal,0.07
+473739,2022-05-31,Igor Martins,101,117,16,Astrea Starter,Mensal,0.07
+445427,2022-07-11,Igor Martins,139,436,16,Astrea Starter,Mensal,0.07
+547972,2022-08-17,Larissa Melo,788,306,16,Astrea Starter,Mensal,0.14
+665209,2022-03-31,Rafael Cunha,183,90,16,Astrea Starter,Mensal,0.11
+725081,2022-02-04,Igor Martins,794,483,16,Astrea Pro,Mensal,0.07
+179779,2022-04-22,Fernanda Dias,189,410,16,Astrea Starter,Mensal,0.25
+110910,2022-06-30,Igor Martins,345,76,16,Astrea Starter,Mensal,0.07
+642191,2022-03-28,Bruna Lopes,769,331,16,Astrea Starter,Mensal,0.07
+126861,2022-07-11,Igor Martins,537,264,16,Astrea Starter,Mensal,0.07
+561824,2022-01-13,Rafael Cunha,177,278,16,Astrea Starter,Mensal,0.11
+246007,2022-01-25,Igor Martins,425,80,16,Astrea Pro,Anual,0.07
+678143,2022-02-18,Igor Martins,450,215,16,Astrea Starter,Mensal,0.07
+598624,2022-03-29,Igor Martins,726,451,16,Astrea Starter,Mensal,0.07
+407165,2022-04-25,Bruna Lopes,676,334,16,Astrea Starter,Mensal,0.07
+532203,2022-05-05,Rafael Cunha,411,94,16,Astrea Starter,Mensal,0.11
+959532,2022-07-22,Igor Martins,602,111,16,Astrea Starter,Mensal,0.07
+170157,2023-06-21,Rafael Cunha,292,475,16,Up,Mensal,0.11
+897163,2022-04-08,Igor Martins,132,217,16,Astrea Starter,Mensal,0.07
+627545,2022-01-19,Igor Martins,122,204,16,Astrea Starter,Mensal,0.07
+296082,2022-05-30,Igor Martins,143,295,16,Astrea Starter,Mensal,0.07
+363352,2022-02-21,Igor Martins,651,497,16,Astrea Starter,Mensal,0.07
+643817,2022-04-20,Rafael Cunha,143,184,16,Astrea Starter,Anual,0.11
+190187,2022-06-27,Igor Martins,274,205,16,Astrea Starter,Mensal,0.07
+555332,2022-04-28,Rafael Cunha,626,180,16,Astrea Starter,Mensal,0.11
+400574,2022-07-26,Igor Martins,744,427,16,Astrea Pro,Mensal,0.07
+484556,2022-08-15,Igor Martins,539,152,16,Astrea Starter,Anual,0.07
+255995,won_time,Bruna Lopes,0,0,pipeline_id,plano,periodicidade,0.07
+969892,2022-06-30,Igor Martins,576,93,16,Astrea Starter,Anual,0.07
+977268,2022-03-16,Igor Martins,595,367,16,Astrea Starter,Mensal,0.07
+159033,2022-02-22,Rafael Cunha,141,152,16,Astrea Starter,Mensal,0.11
+379015,2022-06-24,Fernanda Dias,275,495,16,Astrea Starter,Mensal,0.25
+836395,2022-05-27,Igor Martins,769,310,16,Astrea Starter,Mensal,0.07
+816114,2022-03-29,Bruna Lopes,154,310,16,Astrea Starter,Mensal,0.07
+243497,2022-07-27,Fernanda Dias,255,209,16,Astrea Starter,Mensal,0.25
+19668,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+339238,2022-06-23,Igor Martins,615,218,16,Astrea Starter,Mensal,0.07
+206514,2022-01-21,Igor Martins,705,250,16,Astrea Starter,Mensal,0.07
+300301,2022-05-11,Igor Martins,737,484,16,Astrea Pro,Mensal,0.07
+290228,2022-06-09,Rafael Cunha,230,78,16,Astrea Starter,Mensal,0.11
+400657,2022-04-25,Rafael Cunha,205,249,16,Astrea Starter,Mensal,0.11
+587938,2022-06-06,Rafael Cunha,457,159,16,Astrea Starter,Mensal,0.11
+337857,2022-08-25,Igor Martins,322,219,16,Astrea Starter,Mensal,0.07
+798393,2022-01-21,Bruna Lopes,257,392,36,Astrea Starter,Mensal,0.07
+19659,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+986320,2022-02-11,Igor Martins,223,278,16,Astrea Pro,Mensal,0.07
+574689,2023-04-29,Igor Martins,170,338,16,Up,Mensal,0.07
+694892,2022-02-22,Rafael Cunha,308,433,16,Astrea Starter,Mensal,0.11
+856197,2022-06-22,Igor Martins,186,458,16,Astrea Starter,Mensal,0.07
+229520,2022-08-18,Igor Martins,309,71,16,Astrea Starter,Mensal,0.07
+302816,2022-01-20,Igor Martins,686,308,16,Astrea Pro,Mensal,0.07
+457481,2022-02-17,Igor Martins,214,291,16,Astrea Starter,Mensal,0.07
+634031,2022-01-17,Fernanda Dias,696,195,16,Astrea Starter,Mensal,0.25
+163155,2022-02-21,Igor Martins,427,449,16,Astrea Starter,Mensal,0.07
+511129,2022-06-14,Igor Martins,274,80,16,Astrea Starter,Mensal,0.07
+869059,2022-02-28,Rafael Cunha,624,282,16,Astrea Starter,Mensal,0.11
+671863,2022-02-01,Igor Martins,726,283,16,Astrea Starter,Mensal,0.07
+411454,2022-08-11,Igor Martins,418,295,16,Astrea Starter,Mensal,0.07
+485312,2022-08-09,Bruna Lopes,329,113,36,Astrea Starter,Mensal,0.07
+921764,2022-09-09,Igor Martins,697,87,16,Up,Mensal,0.07
+501792,2022-01-24,Igor Martins,511,493,16,Astrea Starter,Mensal,0.07
+859599,2022-08-08,Igor Martins,277,377,16,Astrea Starter,Mensal,0.07
+735979,2022-06-28,Igor Martins,610,282,16,Astrea Starter,Mensal,0.07
+358492,2022-01-27,Igor Martins,462,417,16,Astrea Pro,Mensal,0.07
+976715,2023-06-07,Rafael Cunha,124,480,16,Up,Mensal,0.11
+832083,2022-06-02,Igor Martins,516,458,16,Astrea Starter,Mensal,0.07
+658909,2022-01-26,Igor Martins,743,222,16,Astrea Starter,Mensal,0.07
+834366,2022-08-08,Rafael Cunha,319,283,16,Astrea Pro,Mensal,0.11
+760604,2022-07-08,Igor Martins,394,380,16,Astrea Starter,Mensal,0.07
+192512,2022-03-31,Rafael Cunha,586,302,16,Astrea Starter,Mensal,0.11
+674849,2022-08-03,Fernanda Dias,592,446,16,Astrea Starter,Mensal,0.25
+514824,2022-02-09,Igor Martins,361,243,16,Astrea Starter,Mensal,0.07
+842596,2022-05-11,Igor Martins,167,412,16,Astrea Starter,Mensal,0.07
+419894,2022-01-18,Igor Martins,597,71,16,Astrea Starter,Mensal,0.07
+553612,2022-01-24,Igor Martins,409,489,16,Astrea Starter,Mensal,0.07
+400013,2022-09-20,Igor Martins,309,323,16,Up,Mensal,0.07
+468637,2022-07-11,Bruna Lopes,313,441,36,Astrea Starter,Mensal,0.07
+470649,2022-04-26,Bruna Lopes,453,337,36,Astrea Starter,Mensal,0.07
+768727,2022-08-22,Fernanda Dias,145,340,16,Astrea Pro,Mensal,0.25
+484874,2022-08-17,Igor Martins,415,143,16,Astrea Pro,Mensal,0.07
+753928,2022-01-07,Igor Martins,736,297,16,Astrea Starter,Mensal,0.07
+533812,2022-06-20,Bruna Lopes,599,130,36,Astrea Starter,,0.07
+399114,2022-04-22,Igor Martins,167,84,16,Astrea Starter,Mensal,0.07
+504103,2022-02-04,Rafael Cunha,698,441,16,Astrea Starter,Mensal,0.11
+877619,2022-01-31,Igor Martins,684,482,16,Astrea Starter,Mensal,0.07
+875319,2022-07-18,Igor Martins,106,272,16,Astrea Pro,Mensal,0.07
+903186,2022-02-04,Bruna Lopes,768,394,16,Astrea Starter,Mensal,0.07
+123462,2022-02-15,Igor Martins,528,240,16,Astrea Starter,Anual,0.07
+925192,2022-01-31,Rafael Cunha,545,409,16,Astrea Pro,Anual,0.11
+430004,2022-06-30,Bruna Lopes,315,208,16,Astrea Starter,Mensal,0.07
+153299,2022-02-08,Igor Martins,470,404,16,Astrea Starter,Anual,0.07
+19650,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+713216,2022-08-08,Rafael Cunha,437,419,16,Astrea Starter,Mensal,0.11
+531536,2022-07-28,Bruna Lopes,197,315,36,Astrea Starter,Mensal,0.07
+197441,2022-03-31,Bruna Lopes,585,409,16,Astrea Starter,Mensal,0.07
+977251,2022-02-09,Igor Martins,572,382,16,Astrea Starter,Anual,0.07
+468332,2022-01-17,Igor Martins,673,177,16,Astrea Starter,Mensal,0.07
+364943,2022-07-06,Igor Martins,541,271,16,Astrea Starter,Mensal,0.07
+177979,2022-01-12,Igor Martins,237,352,16,Astrea Starter,Mensal,0.07
+241174,2022-05-31,Fernanda Dias,286,377,16,Astrea Starter,Mensal,0.25
+291927,2022-01-03,Igor Martins,283,95,16,Astrea Pro,Mensal,0.07
+338281,2022-04-29,Igor Martins,534,421,16,Astrea Starter,Mensal,0.07
+507916,2022-06-27,Igor Martins,600,161,16,Astrea Starter,Mensal,0.07
+393209,2022-07-19,Igor Martins,525,352,16,Astrea Starter,Mensal,0.07
+157678,2022-04-11,Igor Martins,519,378,16,Astrea Starter,Mensal,0.07
+933831,2022-08-11,Igor Martins,341,88,16,Astrea Starter,Mensal,0.07
+111526,2022-03-31,Fernanda Dias,617,354,16,Astrea Pro,Anual,0.25
+305614,2022-01-10,Igor Martins,699,443,16,Astrea Starter,Mensal,0.07
+567510,2022-05-02,Igor Martins,271,218,16,Astrea Starter,Mensal,0.07
+877616,2022-05-04,Bruna Lopes,785,69,16,Astrea Pro,Anual,0.07
+469888,2022-07-26,Larissa Melo,199,274,16,Astrea Pro,Mensal,0.14
+916167,2022-06-13,Igor Martins,617,167,16,Astrea Starter,Mensal,0.07
+947336,2022-09-05,Rafael Cunha,742,284,16,Up,Mensal,0.11
+493695,2022-08-24,Igor Martins,521,467,16,Smart,Anual,0.07
+760359,2022-03-07,Igor Martins,297,469,16,Astrea Pro,Mensal,0.07
+220675,2022-01-03,Igor Martins,542,480,16,Astrea Starter,Mensal,0.07
+395596,2022-03-18,Fernanda Dias,746,254,16,Astrea Starter,Mensal,0.25
+587983,2022-08-10,Igor Martins,478,408,16,Astrea Starter,Mensal,0.07
+749601,2022-08-15,Rafael Cunha,684,457,16,Astrea Starter,Mensal,0.11
+874406,2022-08-09,Igor Martins,762,66,16,Astrea Pro,Mensal,0.07
+372813,2023-08-21,Igor Martins,176,194,16,Smart,Mensal,0.07
+339179,2022-02-23,Igor Martins,541,279,16,Astrea Starter,Mensal,0.07
+128127,2022-06-10,Fernanda Dias,259,365,16,Astrea Starter,Anual,0.25
+505732,2022-09-06,Rafael Cunha,196,128,16,Up,Mensal,0.11
+513576,2022-06-20,Bruna Lopes,389,98,36,Astrea Starter,Mensal,0.07
+198031,2022-04-06,Bruna Lopes,582,410,16,Astrea Pro,Mensal,0.07
+508778,2022-03-17,Bruna Lopes,221,306,16,Astrea Starter,Mensal,0.07
+789126,2022-05-23,Igor Martins,276,240,16,Astrea Pro,Semestral,0.07
+279479,2022-01-24,Igor Martins,572,381,16,Astrea Starter,Mensal,0.07
+804596,2022-12-21,Fernanda Dias,424,272,16,Up,Mensal,0.25
+107800,2022-08-18,Igor Martins,752,342,16,Astrea Starter,Mensal,0.07
+164494,2022-04-28,Igor Martins,178,496,16,Astrea Starter,Mensal,0.07
+871751,2022-05-30,Igor Martins,721,90,16,Astrea Starter,Mensal,0.07
+473626,2022-05-23,Igor Martins,542,165,16,Astrea Starter,Mensal,0.07
+426669,2023-03-13,Rafael Cunha,251,250,16,Up,Mensal,0.11
+965937,2022-01-20,Igor Martins,264,472,16,Astrea Starter,Mensal,0.07
+538596,2022-01-13,Igor Martins,390,259,16,Astrea Starter,Anual,0.07
+591649,2022-04-19,Igor Martins,549,230,16,Astrea Pro,Mensal,0.07
+758186,2022-03-24,Fernanda Dias,678,322,16,Astrea Starter,Mensal,0.25
+210400,2022-02-14,Bruna Lopes,755,356,16,Astrea Starter,Mensal,0.07
+156911,2022-03-18,Rafael Cunha,551,165,16,Astrea Starter,Semestral,0.11
+728335,2022-05-05,Igor Martins,606,395,16,Astrea Starter,Anual,0.07
+588813,2022-08-16,Rafael Cunha,607,250,16,Astrea Starter,Mensal,0.11
+391510,2022-02-23,Igor Martins,629,383,16,Astrea Pro,Mensal,0.07
+426288,2022-03-30,Igor Martins,236,112,16,Astrea Starter,Mensal,0.07
+309266,2022-07-13,Igor Martins,665,66,16,Astrea Starter,Mensal,0.07
+182473,2022-06-16,Igor Martins,145,61,16,Astrea Starter,Mensal,0.07
+442946,2022-05-16,Fernanda Dias,294,138,16,Astrea Pro,Anual,0.25
+923122,2022-05-31,Igor Martins,341,85,16,Astrea Starter,Mensal,0.07
+997459,2022-07-29,Igor Martins,524,126,16,Astrea Starter,Anual,0.07
+619499,2022-03-30,Bruna Lopes,642,383,16,Astrea Starter,Mensal,0.07
+832273,2022-04-29,Igor Martins,370,64,16,Astrea Pro,Mensal,0.07
+478654,2022-06-13,Fernanda Dias,127,337,16,Astrea Pro,Anual,0.25
+903378,2022-06-27,Igor Martins,287,395,16,Astrea Starter,Mensal,0.07
+875050,2022-03-15,Bruna Lopes,503,251,36,Astrea Starter,Mensal,0.07
+987187,2022-04-11,Fernanda Dias,630,64,16,Astrea Starter,Mensal,0.25
+872601,2022-01-19,Rafael Cunha,432,284,16,Astrea Pro,Mensal,0.11
+155035,2022-08-22,Igor Martins,583,414,16,Astrea Starter,Mensal,0.07
+663343,2022-04-12,Igor Martins,747,485,16,Astrea Starter,Mensal,0.07
+321097,2022-05-20,Igor Martins,579,393,16,Astrea Starter,Mensal,0.07
+483571,2022-02-03,Igor Martins,486,461,16,Astrea Starter,Anual,0.07
+983736,2022-03-22,Fernanda Dias,588,330,16,Astrea Starter,Mensal,0.25
+798657,2023-07-26,Rafael Cunha,409,89,16,Smart,Mensal,0.11
+143163,2022-08-28,Igor Martins,603,293,16,Up,Mensal,0.07
+355588,2022-12-20,Fernanda Dias,318,349,16,Vip,Mensal,0.25
+19641,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+333156,2022-05-31,Igor Martins,480,74,16,Astrea Pro,Mensal,0.07
+871432,2022-09-08,Igor Martins,347,421,16,Smart,Mensal,0.07
+722848,2022-03-31,Igor Martins,421,105,16,Astrea Starter,Mensal,0.07
+363604,2022-05-12,Igor Martins,524,437,16,Astrea Pro,Mensal,0.07
+583126,2022-01-10,Igor Martins,310,78,16,Astrea Starter,Mensal,0.07
+933539,2022-01-20,Igor Martins,494,441,16,Astrea Starter,Mensal,0.07
+144137,2022-04-04,Igor Martins,181,99,16,Astrea Pro,Mensal,0.07
+671703,2022-08-10,Fernanda Dias,644,61,16,Astrea Starter,Anual,0.25
+590732,2022-03-31,Igor Martins,712,234,16,Astrea Starter,Mensal,0.07
+416988,2022-04-29,Igor Martins,701,192,16,Astrea Starter,Mensal,0.07
+324986,2022-08-10,Igor Martins,515,209,16,Astrea Starter,Mensal,0.07
+19632,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+923436,2022-07-27,Igor Martins,774,440,16,Astrea Starter,Mensal,0.07
+511310,2022-06-20,Rafael Cunha,528,287,16,Astrea Pro,Anual,0.11
+617451,2022-07-13,Bruna Lopes,210,170,36,Astrea Starter,Mensal,0.07
+588963,2022-03-16,Rafael Cunha,566,93,16,Astrea Starter,Mensal,0.11
+524063,2022-11-04,Rafael Cunha,664,95,16,Up,Mensal,0.11
+233880,2022-08-23,Rafael Cunha,602,187,16,Astrea Pro,Anual,0.11
+654774,2022-10-05,Igor Martins,710,476,16,Smart,Mensal,0.07
+740183,2022-07-11,Igor Martins,550,57,16,Astrea Starter,Mensal,0.07
+274692,2022-04-07,Igor Martins,531,241,16,Astrea Pro,Anual,0.07
+281705,2022-05-03,Fernanda Dias,614,160,16,Astrea Starter,Mensal,0.25
+885430,2022-01-19,Igor Martins,303,380,16,Astrea Starter,Mensal,0.07
+498758,2022-04-19,Igor Martins,145,435,16,Astrea Starter,Mensal,0.07
+351697,2022-03-07,Fernanda Dias,480,458,16,Astrea Starter,Mensal,0.25
+978701,2022-03-07,Igor Martins,570,99,16,Astrea Starter,Mensal,0.07
+856114,2022-06-30,Fernanda Dias,517,316,16,Astrea Pro,Anual,0.25
+569383,2022-08-22,Rafael Cunha,258,221,16,Astrea Starter,Mensal,0.11
+179503,2022-06-24,Rafael Cunha,689,320,16,Astrea Starter,Mensal,0.11
+405218,2022-03-08,Igor Martins,529,195,16,Astrea Starter,Mensal,0.07
+714929,2022-03-30,Igor Martins,429,128,16,Astrea Starter,Mensal,0.07
+991699,2022-05-18,Igor Martins,622,368,16,Astrea Starter,Mensal,0.07
+628953,2022-07-28,Fernanda Dias,305,278,16,Astrea Starter,Mensal,0.25
+734166,2022-01-27,Igor Martins,702,135,16,Astrea Starter,Mensal,0.07
+143635,2022-08-19,Igor Martins,268,166,16,Astrea Pro,Mensal,0.07
+344246,2022-01-31,Igor Martins,287,480,16,Astrea Pro,Mensal,0.07
+978723,2022-05-31,Igor Martins,387,353,16,Astrea Starter,Mensal,0.07
+240780,2022-01-03,Bruna Lopes,404,287,36,Astrea Starter,Mensal,0.07
+281570,2022-09-02,Fernanda Dias,273,491,16,Smart,Mensal,0.25
+231241,2022-02-25,Igor Martins,790,98,16,Astrea Starter,Mensal,0.07
+739842,2023-07-04,Rafael Cunha,311,276,16,Smart,Mensal,0.11
+558278,2022-04-18,Igor Martins,246,123,16,Astrea Starter,Mensal,0.07
+165796,2022-01-25,Igor Martins,124,189,16,Astrea Starter,Mensal,0.07
+875959,2022-05-27,Igor Martins,431,375,16,Astrea Pro,Mensal,0.07
+174127,2022-07-13,Igor Martins,645,248,16,Astrea Starter,Mensal,0.07
+315923,2022-05-11,Igor Martins,397,353,16,Astrea Starter,Mensal,0.07
+426220,2022-04-29,Bruna Lopes,176,169,16,Astrea Starter,Mensal,0.07
+903320,2022-01-25,Rafael Cunha,351,126,16,Astrea Starter,Mensal,0.11
+750414,2022-02-23,Fernanda Dias,617,461,16,Astrea Starter,Mensal,0.25
+917740,2022-02-11,Igor Martins,286,451,16,Astrea Starter,Mensal,0.07
+194824,2022-04-08,Igor Martins,472,263,16,Astrea Starter,Mensal,0.07
+841472,2022-05-17,Bruna Lopes,173,380,16,Astrea Starter,Mensal,0.07
+141743,2022-01-21,Igor Martins,422,285,16,Astrea Pro,Mensal,0.07
+758688,2022-07-25,Igor Martins,556,228,16,Astrea Pro,Mensal,0.07
+649217,2022-04-26,Igor Martins,798,81,16,Astrea Starter,Mensal,0.07
+476673,2022-05-18,Rafael Cunha,412,215,16,Astrea Starter,Mensal,0.11
+655270,2022-06-07,Igor Martins,103,395,16,Astrea Pro,Anual,0.07
+471549,2022-01-24,Igor Martins,588,441,16,Astrea Starter,Mensal,0.07
+130287,2022-01-24,Igor Martins,368,422,16,Astrea Starter,Mensal,0.07
+705337,2022-04-14,Igor Martins,628,224,16,Astrea Pro,Anual,0.07
+19623,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+502780,2022-01-07,Rafael Cunha,149,322,16,Astrea Starter,Mensal,0.11
+492774,2022-06-28,Igor Martins,212,97,16,Astrea Pro,Semestral,0.07
+681973,2022-08-12,Igor Martins,653,497,16,Astrea Starter,Anual,0.07
+999554,2022-03-29,Igor Martins,402,244,16,Astrea Starter,Mensal,0.07
+244717,2022-02-09,Fernanda Dias,621,386,16,Astrea Pro,Anual,0.25
+482227,2022-01-06,Igor Martins,112,115,16,Astrea Pro,Mensal,0.07
+822186,2022-03-16,Fernanda Dias,696,270,16,Astrea Starter,Mensal,0.25
+900165,2022-01-26,Bruna Lopes,254,233,16,Astrea Starter,Mensal,0.07
+216898,2022-01-21,Igor Martins,277,361,16,Astrea Starter,Mensal,0.07
+816378,2022-07-28,Fernanda Dias,340,311,16,Astrea Starter,Anual,0.25
+734960,2022-08-12,Rafael Cunha,327,274,16,Astrea Starter,Mensal,0.11
+548028,2022-07-26,Igor Martins,176,322,16,Astrea Starter,Mensal,0.07
+797185,2022-02-21,Igor Martins,523,59,16,Astrea Starter,Mensal,0.07
+576235,2022-03-28,Igor Martins,271,209,16,Astrea Starter,Mensal,0.07
+933031,2022-08-23,Rafael Cunha,249,329,16,Astrea Pro,Mensal,0.11
+137141,2022-02-18,Igor Martins,500,253,16,Astrea Starter,Mensal,0.07
+667152,2022-03-14,Igor Martins,620,134,16,Astrea Starter,Mensal,0.07
+870290,2022-08-04,Igor Martins,325,403,16,Astrea Pro,Mensal,0.07
+373832,2022-02-21,Igor Martins,584,424,16,Astrea Starter,Mensal,0.07
+554732,2022-01-18,Igor Martins,297,465,16,Astrea Starter,Mensal,0.07
+918638,2022-01-17,Igor Martins,202,193,16,Astrea Starter,Mensal,0.07
+819121,2022-07-29,Igor Martins,756,97,16,Astrea Pro,Mensal,0.07
+616881,2022-08-02,Igor Martins,147,389,16,Astrea Starter,Mensal,0.07
+102729,2022-01-11,Igor Martins,256,370,16,Astrea Starter,Mensal,0.07
+266452,2022-05-26,Bruna Lopes,790,398,36,Astrea Starter,Mensal,0.07
+441968,2022-08-15,Rafael Cunha,396,102,16,Astrea Starter,Mensal,0.11
+510841,2022-01-27,Igor Martins,779,431,16,Astrea Pro,Mensal,0.07
+558700,2022-04-12,Rafael Cunha,385,116,16,Astrea Starter,Mensal,0.11
+827259,2022-03-28,Igor Martins,266,263,16,Astrea Starter,Mensal,0.07
+283697,2022-08-05,Igor Martins,791,440,16,Astrea Pro,Anual,0.07
+318166,2022-02-22,Igor Martins,778,332,16,Astrea Starter,Anual,0.07
+886516,2023-06-30,Rafael Cunha,279,106,16,Company,Mensal,0.11
+283843,2022-09-21,Igor Martins,282,254,16,Up,Mensal,0.07
+228708,2022-07-26,Larissa Melo,128,396,16,Astrea Starter,Mensal,0.14
+606335,2022-07-29,Fernanda Dias,603,73,16,Astrea Starter,Mensal,0.25
+253153,2022-03-21,Igor Martins,438,176,16,Astrea Starter,Mensal,0.07
+154368,2022-06-01,Bruna Lopes,199,78,36,Astrea Starter,Mensal,0.07
+930257,2022-06-07,Igor Martins,414,153,16,Astrea Starter,Mensal,0.07
+282932,2022-01-20,Igor Martins,700,418,16,Astrea Pro,Mensal,0.07
+744153,2022-01-26,Igor Martins,325,480,16,Astrea Starter,Mensal,0.07
+816580,2022-02-18,Igor Martins,700,361,16,Astrea Starter,Mensal,0.07
+120907,2022-07-25,Igor Martins,758,360,16,Astrea Starter,Mensal,0.07
+400940,2022-06-21,Larissa Melo,183,469,16,Astrea Starter,Mensal,0.14
+167059,2022-08-08,Igor Martins,666,349,16,Astrea Pro,Mensal,0.07
+647692,2022-10-10,Igor Martins,422,406,16,Up,Mensal,0.07
+821207,2022-01-27,Bruna Lopes,618,475,16,Astrea Starter,Mensal,0.07
+316935,2022-05-25,Igor Martins,420,52,16,Astrea Pro,Mensal,0.07
+821718,2022-09-14,Fernanda Dias,437,435,16,Smart,Mensal,0.25
+688525,2022-05-30,Larissa Melo,595,314,16,Astrea Pro,Mensal,0.14
+209010,2022-07-25,Igor Martins,716,70,16,Astrea Starter,Mensal,0.07
+404049,2022-05-10,Fernanda Dias,375,230,16,Astrea Starter,Mensal,0.25
+370661,2022-07-14,Igor Martins,616,283,16,Astrea Starter,Mensal,0.07
+353382,2022-02-14,Igor Martins,687,324,16,Astrea Starter,Mensal,0.07
+944168,2022-02-25,Rafael Cunha,215,385,16,Astrea Starter,Mensal,0.11
+724536,2022-02-25,Igor Martins,654,489,16,Astrea Starter,Mensal,0.07
+240971,2022-02-09,Igor Martins,794,397,16,Astrea Starter,Mensal,0.07
+456726,2023-05-31,Fernanda Dias,651,150,16,Up,Mensal,0.25
+19614,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+498099,2022-03-22,Igor Martins,700,428,16,Astrea Starter,Mensal,0.07
+613885,2022-01-17,Igor Martins,789,468,16,Astrea Starter,Mensal,0.07
+514053,2023-03-09,Fernanda Dias,180,90,16,Up,Mensal,0.25
+868372,2022-05-19,Igor Martins,162,374,16,Astrea Starter,Mensal,0.07
+406062,2022-01-28,Igor Martins,690,461,16,Astrea Pro,Mensal,0.07
+229386,2022-02-22,Fernanda Dias,366,167,16,Astrea Starter,Mensal,0.25
+756942,2022-07-18,Igor Martins,410,153,16,Astrea Starter,Mensal,0.07
+606989,2022-07-27,Fernanda Dias,472,412,16,Astrea Starter,Mensal,0.25
+726630,2022-07-06,Igor Martins,559,475,16,Astrea Starter,Mensal,0.07
+149163,2022-10-25,Igor Martins,142,238,16,Up,Mensal,0.07
+446297,2022-06-22,Igor Martins,152,150,16,Astrea Starter,Mensal,0.07
+448794,2022-04-29,Igor Martins,455,375,16,Astrea Starter,Mensal,0.07
+522782,2022-03-11,Fernanda Dias,599,136,16,Astrea Starter,Mensal,0.25
+175303,2022-01-27,Bruna Lopes,302,350,16,Astrea Starter,Anual,0.07
+842684,2022-08-11,Fernanda Dias,186,93,16,Astrea Starter,Mensal,0.25
+307307,2022-01-26,Igor Martins,763,452,16,Astrea Pro,Mensal,0.07
+503939,2022-07-12,Rafael Cunha,723,388,16,Astrea Starter,Mensal,0.11
+779805,2022-02-08,Igor Martins,279,269,16,Astrea Starter,Mensal,0.07
+180497,2023-02-24,Igor Martins,642,374,16,Up,Mensal,0.07
+911116,2022-04-18,Igor Martins,356,497,16,Astrea Starter,Mensal,0.07
+779755,2022-04-29,Fernanda Dias,689,240,16,Astrea Starter,Mensal,0.25
+983736,2022-01-28,Fernanda Dias,241,152,16,Astrea Pro,Mensal,0.25
+148193,2022-07-29,Igor Martins,383,160,16,Astrea Starter,Mensal,0.07
+434260,2022-04-18,Igor Martins,657,127,16,Astrea Starter,Mensal,0.07
+414695,2022-06-17,Igor Martins,396,80,16,Astrea Starter,Anual,0.07
+459224,2022-06-20,Igor Martins,475,314,16,Astrea Starter,Mensal,0.07
+571188,2022-04-13,Rafael Cunha,792,358,16,Astrea Starter,Mensal,0.11
+430824,2022-02-14,Igor Martins,736,285,16,Astrea Pro,Mensal,0.07
+573178,2022-06-29,Igor Martins,631,55,16,Astrea Starter,Anual,0.07
+258347,2022-06-13,Fernanda Dias,201,171,16,Astrea Pro,Anual,0.25
+251439,2022-02-02,Fernanda Dias,356,380,16,Astrea Starter,Mensal,0.25
+166107,2022-02-17,Igor Martins,245,466,16,Astrea Starter,Semestral,0.07
+868271,2022-07-22,Fernanda Dias,689,115,16,Astrea Pro,Anual,0.25
+235215,2022-03-25,Igor Martins,126,417,16,Astrea Starter,Anual,0.07
+19605,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+830190,2022-05-25,Igor Martins,687,228,16,Astrea Starter,Anual,0.07
+299984,2022-02-03,Fernanda Dias,565,466,16,Astrea Starter,Mensal,0.25
+517429,2022-01-24,Igor Martins,729,75,16,Astrea Starter,Mensal,0.07
+869034,2022-05-31,Fernanda Dias,209,366,16,Astrea Starter,Mensal,0.25
+19596,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+809956,2022-04-11,Igor Martins,507,65,16,Astrea Starter,Mensal,0.07
+473851,2022-04-27,Igor Martins,241,83,16,Astrea Starter,Mensal,0.07
+19587,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+590890,2022-06-08,Igor Martins,394,177,16,Astrea Starter,Mensal,0.07
+529823,2022-07-29,Igor Martins,611,428,16,Astrea Starter,Mensal,0.07
+843376,2022-06-28,Rafael Cunha,412,381,16,Astrea Starter,Mensal,0.11
+136934,2022-07-14,Igor Martins,522,116,16,Astrea Pro,Mensal,0.07
+216490,2022-01-31,Rafael Cunha,114,293,16,Astrea Starter,Mensal,0.11
+924377,2022-08-09,Igor Martins,642,361,16,Astrea Pro,Mensal,0.07
+409683,2022-08-15,Rafael Cunha,640,150,16,Astrea Starter,Mensal,0.11
+842127,2022-04-12,Igor Martins,519,465,16,Astrea Starter,Mensal,0.07
+19578,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+339905,2022-07-29,Igor Martins,522,385,16,Astrea Pro,Mensal,0.07
+669563,2022-05-11,Igor Martins,334,250,16,Astrea Starter,Mensal,0.07
+441941,2022-01-19,Igor Martins,351,394,16,Astrea Starter,Mensal,0.07
+945753,2023-04-25,Rafael Cunha,110,484,16,Up,Mensal,0.11
+610587,2022-03-04,Igor Martins,747,100,16,Astrea Starter,Mensal,0.07
+654470,2023-06-11,Fernanda Dias,503,229,16,Up,Mensal,0.25
+992898,2022-06-30,Igor Martins,684,346,16,Astrea Starter,Anual,0.07
+233430,2022-01-31,Igor Martins,271,243,16,Astrea Pro,Mensal,0.07
+248380,2022-07-14,Igor Martins,398,417,16,Astrea Starter,Mensal,0.07
+500166,2022-07-29,Igor Martins,544,109,16,Astrea Starter,Mensal,0.07
+874287,2022-07-27,Igor Martins,491,350,16,Astrea Starter,Mensal,0.07
+148623,2022-01-18,Rafael Cunha,133,196,16,Astrea Pro,Mensal,0.11
+264388,2022-02-03,Bruna Lopes,394,101,16,Astrea Starter,Mensal,0.07
+852536,2022-07-29,Igor Martins,625,478,16,Astrea Starter,Mensal,0.07
+362068,2022-01-27,Igor Martins,411,63,16,Astrea Starter,Mensal,0.07
+306066,2022-03-22,Igor Martins,557,163,16,Astrea Starter,Mensal,0.07
+557890,2022-04-04,Igor Martins,722,356,16,Astrea Starter,Mensal,0.07
+212623,2022-07-07,Igor Martins,446,313,16,Astrea Starter,Mensal,0.07
+906878,2022-05-12,Igor Martins,169,307,16,Astrea Starter,Mensal,0.07
+377821,2022-07-26,Igor Martins,510,216,16,Astrea Starter,Mensal,0.07
+494762,2022-06-09,Larissa Melo,580,159,16,Astrea Pro,Mensal,0.14
+148148,2022-01-19,Igor Martins,137,214,16,Astrea Pro,Mensal,0.07
+345783,2022-01-10,Igor Martins,192,420,16,Astrea Starter,Anual,0.07
+414374,2022-01-28,Igor Martins,218,431,16,Astrea Starter,Mensal,0.07
+351120,2022-03-18,Igor Martins,351,424,16,Astrea Pro,Mensal,0.07
+19569,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+332621,2022-02-21,Igor Martins,381,141,16,Astrea Starter,Mensal,0.07
+964972,2022-05-30,Fernanda Dias,744,328,16,Astrea Starter,Mensal,0.25
+406724,2022-07-28,Igor Martins,379,87,16,Astrea Pro,Mensal,0.07
+343599,2023-01-11,Larissa Melo,320,435,16,Up,Mensal,0.14
+982277,2022-10-25,Igor Martins,345,336,16,Up,Mensal,0.07
+760163,2022-08-15,Igor Martins,726,492,16,Astrea Starter,Mensal,0.07
+940750,2022-01-27,Igor Martins,259,163,16,Astrea Starter,Mensal,0.07
+775294,2022-03-30,Igor Martins,775,312,16,Astrea Pro,Anual,0.07
+243351,2022-06-01,Igor Martins,609,142,16,Astrea Starter,Mensal,0.07
+550762,2022-02-24,Igor Martins,186,498,16,Astrea Pro,Mensal,0.07
+139418,2022-05-31,Igor Martins,396,100,16,Astrea Pro,Anual,0.07
+341348,2022-07-28,Igor Martins,594,318,16,Astrea Starter,Mensal,0.07
+507646,2022-05-11,Igor Martins,624,112,16,Astrea Starter,Mensal,0.07
+827592,2022-05-31,Igor Martins,250,280,16,Astrea Pro,Anual,0.07
+819304,2022-07-13,Bruna Lopes,244,92,36,Astrea Starter,Mensal,0.07
+571513,2022-08-16,Igor Martins,542,264,16,Astrea Starter,Mensal,0.07
+660713,2022-02-16,Igor Martins,788,365,16,Astrea Pro,Mensal,0.07
+988915,2022-05-20,Igor Martins,619,396,16,Astrea Starter,Mensal,0.07
+895855,2022-02-25,Fernanda Dias,549,338,16,Astrea Starter,Mensal,0.25
+860081,2022-05-04,Bruna Lopes,754,253,36,Astrea Starter,Mensal,0.07
+460663,2022-01-18,Bruna Lopes,761,183,36,Astrea Starter,Mensal,0.07
+584534,2022-07-18,Igor Martins,469,498,16,Astrea Starter,Mensal,0.07
+973642,2022-06-08,Igor Martins,146,91,16,Astrea Starter,Mensal,0.07
+249011,2022-08-18,Igor Martins,170,473,16,Astrea Starter,Mensal,0.07
+603890,2022-05-06,Rafael Cunha,537,74,16,Astrea Starter,Mensal,0.11
+937310,2023-04-24,Igor Martins,566,212,16,Up,Mensal,0.07
+456381,2022-04-18,Igor Martins,355,136,16,Astrea Starter,Mensal,0.07
+233743,2022-07-25,Rafael Cunha,564,280,16,Astrea Pro,Mensal,0.11
+746315,2022-01-18,Igor Martins,472,361,16,Astrea Starter,Anual,0.07
+500680,2022-01-23,Igor Martins,200,189,16,Astrea Starter,Mensal,0.07
+581420,2023-05-11,Fernanda Dias,204,170,16,Up,Mensal,0.25
+19560,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+993602,2022-07-22,Igor Martins,214,84,16,Astrea Starter,Mensal,0.07
+954780,2023-08-31,Fernanda Dias,384,258,16,Smart,Anual,0.25
+832752,2022-06-13,Bruna Lopes,181,297,36,Astrea Starter,Mensal,0.07
+862191,2022-04-06,Fernanda Dias,347,459,16,Astrea Starter,Mensal,0.25
+261756,2022-04-24,Bruna Lopes,419,165,36,Astrea Starter,Mensal,0.07
+416885,2022-03-05,Fernanda Dias,287,177,16,Astrea Pro,Mensal,0.25
+718323,2022-01-31,Igor Martins,716,319,16,Astrea Starter,Mensal,0.07
+383210,2022-01-20,Igor Martins,288,469,16,Astrea Pro,Mensal,0.07
+952851,2022-08-17,Igor Martins,697,227,16,Astrea Pro,Anual,0.07
+826930,2022-09-14,Igor Martins,364,426,16,Up,Mensal,0.07
+857398,2022-02-03,Rafael Cunha,594,491,16,Astrea Starter,Mensal,0.11
+258023,2022-06-22,Igor Martins,568,136,16,Astrea Starter,Mensal,0.07
+19551,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+436948,2022-01-26,Igor Martins,283,441,16,Astrea Starter,Mensal,0.07
+869505,2022-06-08,Bruna Lopes,583,475,16,Astrea Starter,Mensal,0.07
+667191,2022-03-02,Igor Martins,170,467,16,Astrea Pro,Mensal,0.07
+978587,2022-03-11,Fernanda Dias,282,369,16,Astrea Pro,Anual,0.25
+19542,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+724355,2022-05-11,Igor Martins,762,449,16,Astrea Pro,Mensal,0.07
+432133,2022-01-20,Igor Martins,245,131,16,Astrea Pro,Mensal,0.07
+595003,2022-01-25,Igor Martins,241,478,16,Astrea Starter,Mensal,0.07
+475021,2022-02-14,Rafael Cunha,567,240,16,Astrea Starter,Mensal,0.11
+662570,2022-03-28,Igor Martins,271,136,16,Astrea Pro,Mensal,0.07
+443001,2022-02-17,Igor Martins,293,228,16,Astrea Starter,Mensal,0.07
+999710,2022-03-29,Igor Martins,590,437,16,Astrea Starter,Anual,0.07
+434706,2022-08-02,Bruna Lopes,231,249,36,Astrea Starter,Mensal,0.07
+310421,2022-08-23,Igor Martins,662,391,16,Astrea Pro,Anual,0.07
+19533,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+580864,2022-07-18,Igor Martins,228,451,16,Astrea Starter,Mensal,0.07
+385234,2022-11-11,Fernanda Dias,618,381,16,Company,Mensal,0.25
+236598,2022-01-31,Igor Martins,302,451,16,Astrea Starter,Anual,0.07
+985294,2022-05-25,Igor Martins,594,468,16,Astrea Starter,Mensal,0.07
+114482,2022-05-17,Igor Martins,292,425,16,Astrea Starter,Mensal,0.07
+832871,2022-07-27,Igor Martins,251,177,16,Astrea Pro,Mensal,0.07
+19524,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+712070,2022-11-01,Igor Martins,618,202,16,Up,Mensal,0.07
+239202,2022-08-12,Igor Martins,181,214,16,Astrea Starter,Mensal,0.07
+351370,2022-02-01,Fernanda Dias,785,137,16,Astrea Starter,Mensal,0.25
+541327,2022-05-27,Larissa Melo,775,182,16,Astrea Starter,Anual,0.14
+977214,2022-08-23,Igor Martins,676,299,16,Astrea Starter,Mensal,0.07
+999641,2022-07-26,Rafael Cunha,362,115,16,Astrea Starter,Mensal,0.11
+514610,2022-07-29,Igor Martins,524,150,16,Astrea Pro,Anual,0.07
+721214,2022-08-15,Fernanda Dias,641,473,16,Astrea Starter,Mensal,0.25
+650032,2022-08-25,Igor Martins,495,466,16,Smart,Mensal,0.07
+500380,2022-08-08,Bruna Lopes,518,458,36,Astrea Starter,Mensal,0.07
+653863,2022-07-11,Igor Martins,508,409,16,Astrea Starter,Anual,0.07
+585083,2022-03-24,Igor Martins,135,141,16,Astrea Starter,Mensal,0.07
+19515,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+310648,2022-08-25,Bruna Lopes,144,241,36,Astrea Starter,Mensal,0.07
+541294,2022-05-19,Igor Martins,632,240,16,Astrea Starter,Mensal,0.07
+767268,2022-03-14,Igor Martins,461,82,16,Astrea Starter,Mensal,0.07
+180818,2022-11-08,Larissa Melo,101,92,16,Up,Mensal,0.14
+445157,2022-03-28,Igor Martins,533,134,16,Astrea Starter,Mensal,0.07
+624860,2022-04-11,Bruna Lopes,609,56,36,Astrea Starter,Mensal,0.07
+723551,2022-01-27,Igor Martins,389,403,16,Astrea Starter,Mensal,0.07
+953101,2022-06-28,Igor Martins,120,340,16,Astrea Starter,Anual,0.07
+938438,2022-04-25,Igor Martins,230,233,16,Astrea Starter,Anual,0.07
+438125,2022-08-04,Igor Martins,788,236,16,Astrea Starter,Mensal,0.07
+494290,2022-05-24,Igor Martins,311,241,16,Astrea Starter,Anual,0.07
+940237,2022-05-31,Bruna Lopes,520,89,36,Astrea Starter,Anual,0.07
+757121,2022-03-28,Bruna Lopes,639,66,16,Astrea Starter,Mensal,0.07
+833381,2022-07-15,Igor Martins,201,230,16,Astrea Pro,Mensal,0.07
+649988,2023-03-09,Rafael Cunha,554,94,16,Up,Mensal,0.11
+208210,2022-08-19,Bruna Lopes,221,223,36,Astrea Starter,Mensal,0.07
+709514,2022-03-28,Igor Martins,486,83,16,Astrea Starter,Mensal,0.07
+19506,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+410894,2022-07-14,Igor Martins,279,434,16,Astrea Starter,Mensal,0.07
+375803,2022-06-01,Igor Martins,359,167,16,Astrea Starter,Mensal,0.07
+416266,2022-03-03,Bruna Lopes,165,283,16,Astrea Pro,Mensal,0.07
+554398,2022-06-13,Igor Martins,750,127,16,Astrea Starter,Anual,0.07
+921159,2022-03-21,Igor Martins,167,56,16,Astrea Starter,Mensal,0.07
+585438,2022-08-24,Igor Martins,498,197,16,Astrea Starter,Mensal,0.07
+580830,2022-06-23,Bruna Lopes,755,105,36,Astrea Starter,,0.07
+233721,2022-03-18,Igor Martins,594,270,16,Astrea Pro,Mensal,0.07
+834674,2022-02-08,Igor Martins,121,313,16,Astrea Starter,Anual,0.07
+832973,2022-08-11,Bruna Lopes,772,137,36,Astrea Starter,Mensal,0.07
+586145,2022-05-23,Igor Martins,247,271,16,Astrea Starter,Anual,0.07
+992501,2022-05-26,Igor Martins,452,386,16,Astrea Starter,Mensal,0.07
+719236,2022-02-18,Igor Martins,486,379,16,Astrea Starter,Mensal,0.07
+807068,2022-03-17,Igor Martins,705,213,16,Astrea Pro,Mensal,0.07
+535506,2022-03-16,Igor Martins,646,432,16,Astrea Pro,Mensal,0.07
+128568,2022-08-18,Igor Martins,589,479,16,Astrea Pro,Mensal,0.07
+19497,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+145490,2022-07-21,Igor Martins,159,441,16,Astrea Starter,Mensal,0.07
+107267,2022-04-12,Igor Martins,342,226,16,Astrea Pro,Mensal,0.07
+543071,2022-03-17,Igor Martins,312,414,16,Astrea Starter,Mensal,0.07
+752457,2022-05-24,Igor Martins,388,221,16,Astrea Starter,Mensal,0.07
+288872,2022-07-13,Igor Martins,421,451,16,Astrea Starter,Mensal,0.07
+19488,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+704723,2022-11-10,Rafael Cunha,560,61,16,Up,Mensal,0.11
+365968,2022-08-19,Igor Martins,116,73,16,Astrea Starter,Mensal,0.07
+467633,2022-08-18,Igor Martins,384,290,16,Astrea Starter,Mensal,0.07
+352585,2022-06-01,Igor Martins,647,78,16,Astrea Starter,Mensal,0.07
+656025,2022-08-22,Rafael Cunha,194,182,16,Astrea Starter,Mensal,0.11
+207888,2022-07-30,Igor Martins,103,393,16,Astrea Starter,Mensal,0.07
+554691,2022-05-26,Fernanda Dias,590,98,16,Astrea Starter,Anual,0.25
+771992,2022-08-03,Igor Martins,599,170,16,Astrea Starter,Mensal,0.07
+281156,2022-05-09,Fernanda Dias,216,478,16,Astrea Starter,Mensal,0.25
+869145,2022-06-13,Igor Martins,183,440,16,Astrea Pro,Anual,0.07
+655523,2022-05-23,Igor Martins,573,121,16,Astrea Pro,Mensal,0.07
+994107,2022-10-31,Fernanda Dias,717,457,16,Up,Mensal,0.25
+644407,2022-01-07,Igor Martins,208,364,16,Astrea Starter,Mensal,0.07
+216202,2022-02-15,Igor Martins,741,108,16,Astrea Starter,Mensal,0.07
+453332,2022-06-27,Igor Martins,425,180,16,Astrea Starter,Anual,0.07
+581635,2022-08-10,Igor Martins,761,268,16,Astrea Starter,Mensal,0.07
+202751,2022-01-24,Igor Martins,226,58,16,Astrea Starter,Anual,0.07
+220431,2022-04-20,Igor Martins,517,212,16,Astrea Starter,Mensal,0.07
+874930,2022-01-18,Rafael Cunha,202,141,16,Astrea Starter,Mensal,0.11
+341760,2022-09-29,Rafael Cunha,590,262,16,Vip,Anual,0.11
+193593,2023-02-16,Bruna Lopes,164,297,16,Up,Mensal,0.07
+116063,2022-05-31,Igor Martins,166,224,16,Astrea Starter,Anual,0.07
+975028,2022-08-31,Igor Martins,791,178,16,Company,Mensal,0.07
+880317,2022-08-03,Rafael Cunha,120,195,16,Astrea Pro,Mensal,0.11
+563321,2022-07-29,Igor Martins,512,440,16,Astrea Starter,Mensal,0.07
+19479,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+722242,2022-06-24,Bruna Lopes,707,344,16,Astrea Starter,Mensal,0.07
+553750,2022-01-10,Igor Martins,275,399,16,Astrea Starter,Mensal,0.07
+956613,2022-05-09,Igor Martins,101,149,16,Astrea Starter,Anual,0.07
+949739,2022-02-20,Bruna Lopes,309,374,36,Astrea Starter,Mensal,0.07
+699381,2022-06-22,Rafael Cunha,549,367,16,Astrea Starter,Mensal,0.11
+249487,2022-07-28,Fernanda Dias,451,181,16,Astrea Starter,Anual,0.25
+690852,2022-05-20,Igor Martins,424,479,16,Astrea Starter,Mensal,0.07
+539706,2022-06-06,Larissa Melo,645,254,16,Astrea Starter,Mensal,0.14
+355947,2022-04-04,Igor Martins,653,77,16,Astrea Starter,Mensal,0.07
+555567,2022-05-04,Igor Martins,427,75,16,Astrea Starter,Anual,0.07
+283682,2022-07-20,Igor Martins,596,154,16,Astrea Starter,Mensal,0.07
+715041,2022-08-22,Igor Martins,686,247,16,Astrea Starter,Mensal,0.07
+451883,2022-01-31,Rafael Cunha,538,467,16,Astrea Starter,Mensal,0.11
+586987,2022-03-29,Rafael Cunha,480,288,16,Astrea Starter,Mensal,0.11
+230493,2022-07-27,Bruna Lopes,147,488,36,Astrea Starter,Mensal,0.07
+522732,2022-07-29,Igor Martins,271,253,16,Astrea Starter,Mensal,0.07
+365611,2022-03-17,Bruna Lopes,212,264,36,Astrea Starter,Mensal,0.07
+498880,2022-07-08,Rafael Cunha,599,223,16,Astrea Starter,Mensal,0.11
+293877,2022-07-28,Larissa Melo,642,399,16,Astrea Pro,Mensal,0.14
+781626,2022-02-10,Igor Martins,231,417,16,Astrea Starter,Mensal,0.07
+388983,2022-10-18,Igor Martins,781,116,16,Up,Anual,0.07
+783356,2022-09-02,Igor Martins,461,212,16,Up,Mensal,0.07
+846957,2022-05-30,Igor Martins,186,323,16,Astrea Pro,Mensal,0.07
+331672,2022-08-24,Fernanda Dias,418,470,16,Smart,Mensal,0.25
+323643,2022-05-30,Bruna Lopes,450,281,16,Astrea Pro,Mensal,0.07
+891182,2022-06-28,Rafael Cunha,364,209,16,Astrea Starter,Mensal,0.11
+103445,2022-05-02,Fernanda Dias,738,237,16,Astrea Starter,Mensal,0.25
+864682,2022-06-28,Igor Martins,497,415,16,Astrea Pro,Mensal,0.07
+302102,2022-08-23,Igor Martins,463,351,16,Astrea Starter,Mensal,0.07
+363719,2022-06-17,Igor Martins,236,361,16,Astrea Starter,Semestral,0.07
+982852,2022-01-14,Rafael Cunha,517,380,16,Astrea Pro,Mensal,0.11
+421006,2022-07-15,Rafael Cunha,104,213,16,Astrea Starter,Mensal,0.11
+273136,2023-05-31,Rafael Cunha,111,321,16,Company,Anual,0.11
+546135,2022-05-11,Igor Martins,790,470,16,Astrea Pro,Semestral,0.07
+156895,2022-03-31,Igor Martins,751,130,16,Astrea Pro,Mensal,0.07
+992526,2022-05-06,Igor Martins,555,100,16,Astrea Starter,Mensal,0.07
+739480,2022-01-21,Bruna Lopes,715,313,16,Astrea Starter,Mensal,0.07
+891681,2022-12-23,Bruna Lopes,405,271,16,Smart,Mensal,0.07
+146580,2022-07-11,Igor Martins,145,389,16,Astrea Starter,Anual,0.07
+941587,2022-09-01,Igor Martins,339,99,16,Company,Mensal,0.07
+446366,2022-01-26,Igor Martins,769,189,16,Astrea Starter,Mensal,0.07
+182377,2022-01-24,Igor Martins,242,232,16,Astrea Pro,Mensal,0.07
+586448,2022-06-13,Igor Martins,171,149,16,Astrea Starter,Mensal,0.07
+234651,2022-11-17,Igor Martins,289,66,16,Smart,Anual,0.07
+161297,2022-02-11,Igor Martins,579,184,16,Astrea Starter,Anual,0.07
+122593,2022-04-29,Igor Martins,797,377,16,Astrea Pro,Mensal,0.07
+331839,2022-06-30,Igor Martins,112,209,16,Astrea Starter,Semestral,0.07
+357644,2022-03-14,Igor Martins,157,239,16,Astrea Starter,Mensal,0.07
+828563,2022-02-23,Bruna Lopes,343,363,16,Astrea Starter,Mensal,0.07
+156497,2022-09-23,Fernanda Dias,660,261,16,Vip,Mensal,0.25
+934389,2022-06-10,Igor Martins,798,472,16,Astrea Pro,Mensal,0.07
+436876,2022-03-17,Igor Martins,558,321,16,Astrea Starter,Anual,0.07
+281031,2022-05-13,Fernanda Dias,622,208,16,Astrea Starter,Mensal,0.25
+981199,2022-04-24,Bruna Lopes,730,433,36,Astrea Starter,Mensal,0.07
+179280,2022-01-17,Igor Martins,471,236,16,Astrea Starter,Mensal,0.07
+355664,2022-01-28,Igor Martins,345,257,16,Astrea Pro,Mensal,0.07
+208134,2022-04-06,Igor Martins,396,331,16,Astrea Starter,Mensal,0.07
+255688,2022-05-31,Bruna Lopes,716,459,16,Astrea Pro,Mensal,0.07
+976040,2022-01-25,Igor Martins,391,286,16,Astrea Starter,Mensal,0.07
+19470,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+252158,2022-04-19,Igor Martins,361,111,16,Astrea Starter,Mensal,0.07
+753475,2022-08-11,Fernanda Dias,451,213,16,Astrea Starter,Anual,0.25
+19461,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+718864,2022-01-06,Fernanda Dias,524,431,16,Astrea Starter,Mensal,0.25
+144436,2022-07-11,Igor Martins,150,205,16,Astrea Starter,Anual,0.07
+550678,2022-03-18,Bruna Lopes,318,412,36,Astrea Starter,Mensal,0.07
+276708,2022-01-19,Igor Martins,190,499,16,Astrea Pro,Mensal,0.07
+566782,2022-02-06,Bruna Lopes,756,356,36,Astrea Starter,Mensal,0.07
+318660,2022-04-20,Igor Martins,689,113,16,Astrea Pro,Mensal,0.07
+200028,2022-03-30,Igor Martins,297,242,16,Astrea Starter,Mensal,0.07
+680097,2022-01-25,Igor Martins,333,418,16,Astrea Starter,Mensal,0.07
+700611,2022-06-30,Igor Martins,288,250,16,Astrea Starter,Mensal,0.07
+263574,2022-02-11,Igor Martins,375,218,16,Astrea Starter,Mensal,0.07
+353576,2022-08-08,Fernanda Dias,706,254,16,Astrea Starter,Mensal,0.25
+404693,2022-07-18,Igor Martins,539,348,16,Astrea Pro,Mensal,0.07
+839057,2022-03-10,Igor Martins,687,125,16,Astrea Starter,Anual,0.07
+138553,2023-07-11,Larissa Melo,224,424,16,Up,Mensal,0.14
+742339,2022-03-04,Igor Martins,269,180,16,Astrea Starter,Mensal,0.07
+675027,2022-06-21,Fernanda Dias,277,452,16,Astrea Pro,Anual,0.25
+909770,2022-06-17,Igor Martins,478,495,16,Astrea Starter,Mensal,0.07
+514960,2022-07-20,Igor Martins,382,405,16,Astrea Pro,Mensal,0.07
+448341,2022-03-11,Bruna Lopes,645,253,36,Astrea Starter,Mensal,0.07
+870564,2022-06-15,Fernanda Dias,479,337,16,Astrea Starter,Mensal,0.25
+707623,2022-02-22,Igor Martins,751,419,16,Astrea Starter,Mensal,0.07
+504290,2022-06-15,Igor Martins,392,477,16,Astrea Starter,Mensal,0.07
+438900,2022-06-29,Bruna Lopes,177,306,16,Astrea Starter,Mensal,0.07
+481135,2022-04-01,Fernanda Dias,571,131,16,Astrea Starter,Mensal,0.25
+748056,2022-05-27,Igor Martins,285,225,16,Astrea Pro,Anual,0.07
+881341,2023-03-03,Igor Martins,744,462,16,Up,Mensal,0.07
+158407,2022-12-29,Bruna Lopes,178,315,16,Up,Mensal,0.07
+635632,2022-02-10,Bruna Lopes,489,306,16,Astrea Starter,Mensal,0.07
+19452,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+327227,2022-09-12,Rafael Cunha,100,197,16,Company,Mensal,0.11
+770550,2022-01-25,Igor Martins,492,149,16,Astrea Starter,Mensal,0.07
+881574,2022-05-31,Igor Martins,117,381,16,Astrea Starter,Mensal,0.07
+887344,2022-06-28,Igor Martins,353,102,16,Astrea Starter,Anual,0.07
+125236,2022-03-28,Fernanda Dias,494,336,16,Astrea Pro,Anual,0.25
+454552,2022-08-02,Igor Martins,426,296,16,Astrea Starter,Anual,0.07
+877047,2022-04-05,Rafael Cunha,497,435,16,Astrea Starter,Mensal,0.11
+497725,2022-07-21,Igor Martins,363,310,16,Astrea Starter,Mensal,0.07
+986338,2022-06-28,Fernanda Dias,472,290,16,Astrea Starter,Mensal,0.25
+940739,2022-01-11,Igor Martins,773,402,16,Astrea Starter,Mensal,0.07
+810053,2022-05-16,Rafael Cunha,440,100,16,Astrea Pro,Mensal,0.11
+839712,2022-03-15,Fernanda Dias,243,358,16,Astrea Starter,Mensal,0.25
+251602,2023-03-22,Fernanda Dias,605,50,16,Up,Mensal,0.25
+19443,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+19434,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+356909,2022-05-18,Igor Martins,678,168,16,Astrea Starter,Mensal,0.07
+333382,2022-08-15,Rafael Cunha,515,347,16,Astrea Starter,Mensal,0.11
+368402,2022-01-25,Igor Martins,105,63,16,Astrea Pro,Mensal,0.07
+824163,2022-02-08,Rafael Cunha,468,296,16,Astrea Starter,Mensal,0.11
+592692,2022-01-10,Bruna Lopes,652,362,36,Astrea Starter,Mensal,0.07
+215144,2022-08-12,Fernanda Dias,718,197,16,Astrea Pro,Anual,0.25
+680549,2022-07-12,Igor Martins,695,342,16,Astrea Starter,Mensal,0.07
+598404,2022-12-08,Igor Martins,277,491,16,Up,Mensal,0.07
+632636,2022-05-25,Igor Martins,353,289,16,Astrea Pro,Anual,0.07
+903450,2022-03-29,Igor Martins,342,108,16,Astrea Starter,Mensal,0.07
+19425,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+227126,2022-03-29,Igor Martins,548,296,16,Astrea Starter,Mensal,0.07
+560615,2022-01-21,Rafael Cunha,609,386,16,Astrea Starter,Mensal,0.11
+316947,2022-03-04,Igor Martins,152,396,16,Astrea Starter,Mensal,0.07
+925986,2022-09-27,Igor Martins,328,393,16,Vip,Mensal,0.07
+540682,2022-05-25,Igor Martins,672,429,16,Astrea Starter,Mensal,0.07
+633973,2022-04-14,Bruna Lopes,595,323,36,Astrea Starter,Mensal,0.07
+834097,2022-09-26,Igor Martins,306,424,16,Smart,Mensal,0.07
+403147,2022-02-16,Rafael Cunha,499,204,16,Astrea Starter,Mensal,0.11
+135599,2023-05-23,Igor Martins,281,244,16,Smart,Mensal,0.07
+300880,2022-03-02,Igor Martins,623,452,16,Astrea Starter,Mensal,0.07
+682707,2022-05-18,Igor Martins,169,292,16,Astrea Starter,Mensal,0.07
+784092,2022-04-04,Rafael Cunha,105,214,16,Astrea Starter,Mensal,0.11
+998046,2022-02-10,Igor Martins,299,490,16,Astrea Starter,Mensal,0.07
+585288,2022-05-20,Bruna Lopes,158,315,36,Astrea Starter,Mensal,0.07
+782687,2022-09-06,Rafael Cunha,373,451,16,Company,Mensal,0.11
+378204,2023-07-31,Fernanda Dias,127,471,16,Up,Mensal,0.25
+211191,2022-05-27,Igor Martins,634,388,16,Astrea Starter,Mensal,0.07
+671647,2022-07-11,Igor Martins,741,320,16,Astrea Starter,Mensal,0.07
+501514,2022-04-07,Bruna Lopes,463,224,36,Astrea Starter,Mensal,0.07
+19416,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+359472,2023-06-19,Fernanda Dias,263,137,16,Up,Mensal,0.25
+819561,2022-07-17,Igor Martins,629,466,16,Astrea Starter,Anual,0.07
+329357,2022-02-07,Igor Martins,618,477,16,Astrea Starter,Mensal,0.07
+677233,2022-10-31,Igor Martins,579,150,16,Company,Anual,0.07
+684267,2022-09-08,Igor Martins,174,488,16,Up,Mensal,0.07
+839343,2022-05-13,Igor Martins,618,59,16,Astrea Starter,Mensal,0.07
+19407,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+310370,2022-06-13,Fernanda Dias,746,126,16,Astrea Starter,Mensal,0.25
+116926,2022-08-30,Igor Martins,767,276,16,Up,Mensal,0.07
+392038,2022-02-03,Igor Martins,201,439,16,Astrea Pro,Mensal,0.07
+685095,2022-11-01,Igor Martins,776,379,16,Up,Mensal,0.07
+128629,2022-06-20,Fernanda Dias,575,442,16,Astrea Pro,Anual,0.25
+214973,2022-04-27,Rafael Cunha,248,87,16,Astrea Starter,Mensal,0.11
+289129,2022-04-18,Igor Martins,172,189,16,Astrea Starter,Mensal,0.07
+335680,2022-07-18,Igor Martins,388,308,16,Astrea Starter,Mensal,0.07
+748290,2022-06-21,Fernanda Dias,234,376,16,Astrea Starter,Anual,0.25
+147012,2022-04-06,Bruna Lopes,354,487,36,Astrea Starter,Mensal,0.07
+821049,2022-02-06,Bruna Lopes,432,225,36,Astrea Starter,Mensal,0.07
+262044,2022-03-31,Igor Martins,773,57,16,Astrea Starter,Mensal,0.07
+733587,2022-02-23,Igor Martins,722,154,16,Astrea Starter,Mensal,0.07
+566886,2022-08-31,Igor Martins,283,331,16,Up,Mensal,0.07
+327746,2022-03-18,Igor Martins,783,394,16,Astrea Pro,Mensal,0.07
+216956,2022-07-12,Igor Martins,698,346,16,Astrea Starter,Mensal,0.07
+618854,2022-03-04,Igor Martins,331,77,16,Astrea Starter,Mensal,0.07
+398956,2022-08-24,Rafael Cunha,738,311,16,Company,Mensal,0.11
+629464,2022-02-11,Igor Martins,739,206,16,Astrea Pro,Mensal,0.07
+366914,2022-07-21,Igor Martins,663,434,16,Astrea Pro,Mensal,0.07
+136799,2022-09-05,Igor Martins,135,166,16,Up,Mensal,0.07
+313638,2022-02-25,Rafael Cunha,350,435,16,Astrea Starter,Mensal,0.11
+214052,2022-05-24,Igor Martins,318,106,16,Astrea Starter,Mensal,0.07
+868065,2022-01-17,Rafael Cunha,543,494,16,Astrea Starter,Mensal,0.11
+19398,deleted,deleted,deleted,deleted,deleted,deleted,deleted,deleted
+881451,2022-08-31,Igor Martins,282,181,16,Up,Mensal,0.07
